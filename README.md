@@ -5,10 +5,11 @@
 -->
 
 
-- 🔭 I’m currently working on machine learning
+- 🔭 I’m currently working on machine learning \\
 
   
 ![](https://komarev.com/ghpvc/?username=visitworld123&color=blue&style=plastic&label=VISITORS)
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
