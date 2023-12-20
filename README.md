@@ -5,8 +5,10 @@
 -->
 
 
+
 - 🔭 I’m currently working on machine learning and federated learning
 
+![visitworld123's GitHub stats](https://github-readme-stats.vercel.app/api?username=visitworld123&show_icons=true&theme=transparent)
   
 ![](https://komarev.com/ghpvc/?username=visitworld123&color=blue&style=plastic&label=VISITORS)
 
